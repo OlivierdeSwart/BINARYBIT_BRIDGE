@@ -1,0 +1,3 @@
+node_modules
+.solcover.js
+truffle.js
